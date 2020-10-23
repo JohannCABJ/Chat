@@ -13,3 +13,7 @@
 
 
 **Table of Contents**
+
+[TOC]
+##Components
+(https://github.com/JohannCABJ/Chat/tree/master/components/chat")
