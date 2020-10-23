@@ -14,6 +14,4 @@
 
 **Table of Contents**
 
-[TOC]
-##Components
-##Heading 2 link [Chat](https://github.com/JohannCABJ/Chat/tree/master/components/chat)
+[Chat](https://github.com/JohannCABJ/Chat/tree/master/components/chat)
