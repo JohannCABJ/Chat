@@ -12,7 +12,7 @@ const upload = multer({
 router.get ('/', function(req,res){
     const filterMessages = req.params.chat || null
     controller.getMessages(filterMessages)
-    
+
         .then((messageList)=> {
             response.success(req,res,messageList,200)
         })
